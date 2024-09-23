@@ -5,4 +5,4 @@
 <p>Web app containing BMI calculator, temperature converter, currency converter, distance converter.</p>
 <hr>
 <h3>See how it works:</h3>
-<a href="#"></a>
+<a href="https://calculatorbmiandconverter.netlify.app/">Calculator BMI and Converter</a>
